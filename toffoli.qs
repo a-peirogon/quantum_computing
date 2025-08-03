@@ -1,5 +1,5 @@
 namespace Kata {
-    /// # Resumen
+    /// # Compuerta Toffoli (CCNOT)
     /// Aplica la compuerta Toffoli (CCNOT) a los qubits dados.
     /// 
     /// # Entrada
